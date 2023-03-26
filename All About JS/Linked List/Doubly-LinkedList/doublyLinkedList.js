@@ -60,4 +60,5 @@ numList.add(new Node(7));
 numList.printList();
 //numList.printList(size());
 // console.log(is_Empty(numList));
-numList.is_Empty();
+console.log("Check if the list empty or not");
+console.log(numList.is_Empty());

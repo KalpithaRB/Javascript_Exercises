@@ -8,5 +8,5 @@ const linearSearch = (arr, item) => {
   };
 
   let sampleData = [10, 41, 14, 55, 38, 90, 39];
-  console.log(linearSearch(sampleData, 14));
-console.log(linearSearch(sampleData, 90));
+  console.log(("The position of 14 in the array is "+linearSearch(sampleData, 14)));
+console.log(("The position of 14 in the array is "+linearSearch(sampleData, 90)));

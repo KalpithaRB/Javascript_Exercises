@@ -57,6 +57,8 @@ numList.add(new Node(4));
 numList.add(new Node(5));
 numList.add(new Node(6));
 numList.add(new Node(7));
+console.log("  ");
+console.log("Node in the Linked-List");
 numList.printList();
 //numList.printList(size());
 // console.log(is_Empty(numList));

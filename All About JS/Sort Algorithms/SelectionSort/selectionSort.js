@@ -5,6 +5,7 @@ function swap(arr,xp, yp)
 	arr[yp] = temp;
 }
 
+
 function selectionSort(arr, n)
 {
 	var i, j, min_idx;
